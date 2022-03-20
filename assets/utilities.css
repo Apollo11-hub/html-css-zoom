@@ -23,7 +23,13 @@ body{
 }
 
 
+.class-active {
+  color: green !important; 
+}
 
+.cursor{
+  cursor: pointer;
+}
 
 
 
